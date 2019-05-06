@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141727000375",
+    "firebase_url": "https://imload-f4561.firebaseio.com",
+    "project_id": "imload-f4561",
+    "storage_bucket": "imload-f4561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141727000375:android:4d6fbfa82a37dd40",
+        "android_client_info": {
+          "package_name": "com.example.maneeshsagar.imload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141727000375-v2vt7e0ncr4t5bh55007ubn64ei45c91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maneeshsagar.imload",
+            "certificate_hash": "4ffbf8d3b70945cccf674483558e7915fcbb6137"
+          }
+        },
+        {
+          "client_id": "141727000375-7bkpmsd45idh05rsndlh8v36u98n5lac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPGT30ZU3kpNyuimecx1LBx59jzwrybs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141727000375-7bkpmsd45idh05rsndlh8v36u98n5lac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

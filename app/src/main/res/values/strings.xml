@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imload</string>
+    <string name="view_uploads">View Uploads</string>
+    <string name="create_user">Create User</string>
+    <string name="button">Button</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
